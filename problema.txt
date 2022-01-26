@@ -1,0 +1,7 @@
+Quando crio um novo user eu não consigo lista-lo pois
+estou trabalhando com duas instâncias de classes diferentes.
+
+Uma possível solução pra esse problema é utilizar o singleton
+que vai permitir que criemos apenas uma instancia de uma classe
+que vai ser uma instancia global para a aplicação, tirando a obrigação
+de criar mais de uma instancia.
